@@ -8,6 +8,7 @@
 /Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.AssemblyInfoInputs.cache
 /Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.AssemblyInfo.cs
 /Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.csproj.CoreCompileInputs.cache
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.sourcelink.json
 /Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Appl.3636FFC2.Up2Date
 /Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.dll
 /Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/refint/Tcc.Application.dll

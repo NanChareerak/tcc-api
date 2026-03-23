@@ -5,6 +5,7 @@
 /Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/Tcc.Core.AssemblyInfoInputs.cache
 /Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/Tcc.Core.AssemblyInfo.cs
 /Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/Tcc.Core.csproj.CoreCompileInputs.cache
+/Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/Tcc.Core.sourcelink.json
 /Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/Tcc.Core.dll
 /Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/refint/Tcc.Core.dll
 /Users/nanchareerak/tcc-api/Tcc.Core/obj/Debug/net10.0/Tcc.Core.pdb
