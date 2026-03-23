@@ -1,0 +1,15 @@
+/Users/nanchareerak/tcc-api/Tcc.Application/bin/Debug/net10.0/Tcc.Application.deps.json
+/Users/nanchareerak/tcc-api/Tcc.Application/bin/Debug/net10.0/Tcc.Application.dll
+/Users/nanchareerak/tcc-api/Tcc.Application/bin/Debug/net10.0/Tcc.Application.pdb
+/Users/nanchareerak/tcc-api/Tcc.Application/bin/Debug/net10.0/Tcc.Core.dll
+/Users/nanchareerak/tcc-api/Tcc.Application/bin/Debug/net10.0/Tcc.Core.pdb
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.csproj.AssemblyReference.cache
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.AssemblyInfoInputs.cache
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.AssemblyInfo.cs
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.csproj.CoreCompileInputs.cache
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Appl.3636FFC2.Up2Date
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.dll
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/refint/Tcc.Application.dll
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/Tcc.Application.pdb
+/Users/nanchareerak/tcc-api/Tcc.Application/obj/Debug/net10.0/ref/Tcc.Application.dll

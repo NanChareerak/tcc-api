@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET API",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Tcc.Api/bin/Debug/net10.0/Tcc.Api.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Tcc.Api",
+      "stopAtEntry": false,
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "https://localhost:7015"
+      },
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https://localhost:7015)\\b",
+        "uriFormat": "%s/swagger/index.html"
+      }
+    },
+    {
+      "name": "Chrome Swagger",
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "https://localhost:7015/swagger/index.html",
+      "webRoot": "${workspaceFolder}",
+      "runtimeExecutable": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "API + Chrome",
+      "configurations": [".NET API", "Chrome Swagger"]
+    }
+  ]
+}

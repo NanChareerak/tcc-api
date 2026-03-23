@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Tcc.Api/Tcc.Api.csproj" />
+  <Project Path="Tcc.Application/Tcc.Application.csproj" />
+  <Project Path="Tcc.Core/Tcc.Core.csproj" />
+  <Project Path="Tcc.Infrastructure/Tcc.Infrastructure.csproj" />
+</Solution>
